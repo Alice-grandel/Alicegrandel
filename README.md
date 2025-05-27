@@ -18,7 +18,7 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 🏳️‍⚧️ Como mulher trans, também quero abrir caminhos e mostrar que há espaço para todas nós na tecnologia.  
 Meu objetivo é entrar no mercado e inspirar outras meninas trans a acreditarem em seus potenciais.
 
-Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
+
 
 ---
 
@@ -72,4 +72,6 @@ Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 <div align="center">
   <img src="https://profile-counter.glitch.me/alice-grandel/count.svg" alt="Visitantes no perfil" />
 </div>
+
+Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 
