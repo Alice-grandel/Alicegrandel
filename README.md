@@ -66,6 +66,8 @@ Meu objetivo é entrar no mercado e inspirar outras meninas trans a acreditarem 
 ### 📬 Contato
 
 📧 Email: [alicegrandelhsp@gmail.com](mailto:alicegrandelhsp@gmail.com)
+
+
 Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 ---
 
