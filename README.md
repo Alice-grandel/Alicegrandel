@@ -71,7 +71,8 @@ Meu objetivo é entrar no mercado e inspirar outras meninas trans a acreditarem 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/alice-grandel/count.svg" alt="Visitantes no perfil" />
+  Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 </div>
 
-Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
+
 
