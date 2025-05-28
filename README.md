@@ -1,4 +1,4 @@
-## "Hello world", meu nome é Alice Grandel e sejam muito bem-vindos 💜
+## Oii, meu nome é Alice e sejam muito bem-vindos 💜
 
 <p align="center">
   🦀💻 Linguagens: <strong>Rust</strong> & <strong>Golang</strong>
