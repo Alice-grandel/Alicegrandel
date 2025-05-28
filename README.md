@@ -1,4 +1,4 @@
-## Oii, meu nome é Alice e sejam muito bem-vindos 💜
+## Oii, meu chamo Alice e sejam muito bem-vindos 💜
 
 <p align="center">
   🦀💻 Linguagens: <strong>Rust</strong> & <strong>Golang</strong>
@@ -12,7 +12,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em lógica, estrutura e segurança.
+Meu nome é Alice grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em lógica, estrutura e segurança.
 
 Tenho um interesse especial por **back-end** e **segurança da informação**, e estudo com consistência e curiosidade.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
