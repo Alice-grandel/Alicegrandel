@@ -1,9 +1,11 @@
 ## "Hello world", meu nome é Alice Grandel e sejam muito bem-vindos 💜
 
 <p align="center">
-🦀 Estudando: <strong>Rust</strong> e <strong>Go</strong><br>
-🔐 Interesses: <strong>Back-end</strong> e <strong>Segurança da Informação</strong><br>
-🏳️‍⚧️ Mulher trans construindo seu espaço na tecnologia
+  🦀💻 Linguagens: <strong>Rust</strong> & <strong>Golang</strong>
+  <img src="https://github.com/golang-samples/gopher-vector/raw/master/gopher.png" alt="Gopher" height="20"/>
+  <br>
+  🔐 Interesses: <strong>Back-end</strong> e <strong>Segurança da Informação</strong><br>
+  🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em>
 </p>
 
 ---
