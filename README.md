@@ -1,8 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  🐹💻 Linguagens: <strong>🦀 Rust</strong> and <strong>Golang</strong>
-  <img src="https://github.com/golang-samples/gopher-vector/raw/master/gopher.png" alt="Gopher" height="20"/>
+  💻 Linguagens: <strong>🦀 Rust</strong> and <strong>🐹 Golang</strong>
   <br>
   🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong> | <strong>Sistemas</strong><br>
   🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em>
