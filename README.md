@@ -4,6 +4,7 @@
   💻 Linguagens: <strong>🦀 Rust</strong> and <strong>🐹 Golang</strong>
   <br>
   🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong>
+  <br>
   🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em>
 </p>
 
