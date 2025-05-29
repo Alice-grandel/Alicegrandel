@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  🐹💻 Linguagem principal: <strong>Golang</strong>
+  🐹💻 Linguagens principal: <strong>Golang</strong>
   <img src="https://github.com/golang-samples/gopher-vector/raw/master/gopher.png" alt="Gopher" height="20"/>
   <br>
   🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong> | <strong>Sistemas</strong><br>
