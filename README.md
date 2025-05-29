@@ -16,9 +16,13 @@ Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, constr
 Tenho um interesse especial por **back-end** e **segurança da informação**, e estudo com consistência e curiosidade.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
 
-🏳️‍⚧️ Como mulher trans, também quero abrir caminhos e mostrar que há espaço para todas nós na tecnologia.  
+🏳️‍⚧️ Como mulher trans, também quero abrir caminhos e mostrar que há espaço para todas nós na tecnologia. 
+
+
 
 ---
+
+
 
 ### 🛠️ Tecnologias & Ferramentas
 
