@@ -25,16 +25,8 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 
 
-### 🛠️ Tecnologias & Ferramentas
-
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=hack-the-box&logoColor=white)
-
+🛠️ Tecnologias & Ferramentas
+<table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br/> <b>Go</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/> <b>Git</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/> <b>Linux</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/> <b>VS Code</b> </td> </tr> <tr> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg" width="50"/><br/> <b>Kali Linux</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50"/><br/> <b>Red Hat</b> </td> <td align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3119/3119338.png" width="50"/><br/> <b>Cybersecurity</b> </td> </tr> </table>
 ---
 
 ### 📊 GitHub Analytics
