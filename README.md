@@ -25,28 +25,21 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 
 
-🛠️ Tecnologias & Ferramentas
-<table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br/> <b>Go</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/> <b>Git</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/> <b>Linux</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/> <b>VS Code</b> </td> </tr> <tr> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg" width="50"/><br/> <b>Kali Linux</b> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50"/><br/> <b>Red Hat</b> </td> <td align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3119/3119338.png" width="50"/><br/> <b>Cybersecurity</b> </td> </tr> </table>
----
+## ⚙️ Tecnologias & Ferramentas
 
-### 📊 GitHub Analytics
+<div align="center" style="background:#0f111a; padding:20px; border-radius:12px; box-shadow: 0 0 15px #00ff9c;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="Go" title="Go" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" title="Git" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux" title="Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" title="VS Code" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg" width="60" alt="Kali Linux" title="Kali Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://assets.hackthebox.com/images/HTB_Logo_icon.png" width="60" alt="Hack The Box" title="Hack The Box" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60" alt="Red Hat" title="Red Hat" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=alice-grandel&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice-grandel&theme=radical&layout=compact&hide_border=false"
-        alt="Top Langs"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" style="font-family: 'Courier New', Courier, monospace; color:#00ff9c; margin-top:12px; letter-spacing:1.5px;">
+  &lt;<span style="color:#ff0055;">root@underground</span>:~#&gt; <b>keep hacking, keep learning</b>  
+</div>
 
 ---
 
