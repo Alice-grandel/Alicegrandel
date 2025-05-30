@@ -22,25 +22,15 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 
 ---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" title="Go"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git" title="Shadow Version Control" style="filter: drop-shadow(0 0 8px #f05033) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" alt="Linux" title="Dark System Core" style="filter: drop-shadow(0 0 8px #ffd700) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VSCode" title="Code in the Shadows" style="filter: drop-shadow(0 0 8px #0078d7) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+  
 
-
-## ⚙️ Tecnologias & Ferramentas
-
-<div align="center" style="background:#0f111a; padding:20px; border-radius:12px; box-shadow: 0 0 15px #00ff9c;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="Go" title="Go" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" title="Git" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux" title="Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" title="VS Code" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg" width="60" alt="Kali Linux" title="Kali Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60" alt="Red Hat" title="Red Hat" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-</div>
-
-<div align="center" style="font-family: 'Courier New', Courier, monospace; color:#00ff9c; margin-top:12px; letter-spacing:1.5px;">
-  &lt;<span style="color:#ff0055;">root@underground</span>:~#&gt; <b>keep hacking, keep learning</b>  
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
