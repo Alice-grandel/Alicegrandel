@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  💻 Linguagens: <strong>🦀 Rust</strong> and <strong>🐹 Golang</strong>
+  💻 Linguagens principal: <strong>🐹 Golang</strong>
   <br>
   🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong>
   <br>
