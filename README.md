@@ -22,13 +22,17 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" title="Go"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git" title="Shadow Version Control" style="filter: drop-shadow(0 0 8px #f05033) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" title="Go"/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" alt="Linux" title="Dark System Core" style="filter: drop-shadow(0 0 8px #ffd700) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git" title="Shadow Version Control" style="filter: drop-shadow(0 0 8px #f05033) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" alt="Linux" title="Dark System Core" style="filter: drop-shadow(0 0 8px #ffd700) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VSCode" title="Code in the Shadows" style="filter: drop-shadow(0 0 8px #0078d7) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VSCode" title="Code in the Shadows" style="filter: drop-shadow(0 0 8px #0078d7) brightness(1.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+
+  
+</div>
   
 
 
