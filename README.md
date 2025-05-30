@@ -33,7 +33,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux" title="Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" title="VS Code" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg" width="60" alt="Kali Linux" title="Kali Linux" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
-  <img src="https://assets.hackthebox.com/images/HTB_Logo_icon.png" width="60" alt="Hack The Box" title="Hack The Box" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60" alt="Red Hat" title="Red Hat" style="margin:0 15px; filter: drop-shadow(0 0 2px #00ff9c);"/>
 </div>
 
