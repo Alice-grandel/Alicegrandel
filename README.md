@@ -21,9 +21,9 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" title="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VSCode" title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git" title="Versionamento"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" alt="Linux" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VSCode" title="VSCode"/>
 </div>
 
 ---
