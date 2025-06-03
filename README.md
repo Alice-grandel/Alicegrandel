@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 Linguagem principal: <strong>🧬 C++</strong> <br> 🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de C++ moderno</strong> <br> 🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em> </p>
+  <p align="center"> 💻 Linguagem principal: <strong>🧬 C++</strong> or <strong>☕ JAVA</strong> <br> 🛡️ Interesses: <strong>Back-end</strong> | <strong>Segurança da Informação</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de C++ moderno</strong> <br> 🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em> </p>
 </p>
 
 ---
