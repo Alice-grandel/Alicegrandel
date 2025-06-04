@@ -2,7 +2,7 @@
 
 <p align="center">
   <p align="center"> 💻 Linguagem principal: <strong>🦀  Rust</strong> <br> 🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
+🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
 🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em>
 
 ---
@@ -23,6 +23,9 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50" alt="Rust" title="Rust"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
   
   <!-- Ferramentas Rust -->
   <img src="https://rust-lang.org/logos/cargo.png" width="50" alt="Cargo" title="Cargo (Gerenciador de pacotes)"/>
