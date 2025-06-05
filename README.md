@@ -3,7 +3,6 @@
 <p align="center">
   <p align="center"> 💻 Linguagem principal: <strong>🦀  Rust</strong> <br> 🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
 🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
-🏳️‍⚧️ <em>Mulher trans construindo seu espaço na tecnologia</em>
 
 ---
 
