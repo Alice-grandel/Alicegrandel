@@ -9,7 +9,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em Rust e Golang
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em Rust e c++
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
@@ -23,7 +23,9 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50" alt="Rust" title="Rust"/>
-  
+  <!-- Linguagens -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" alt="C++" title="C++"/>
+
   <!-- Ferramentas Rust -->
   <img src="https://rust-lang.org/logos/cargo.png" width="50" alt="Cargo" title="Cargo (Gerenciador de pacotes)"/>
   
