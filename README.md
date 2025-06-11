@@ -29,7 +29,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
   
   <!-- Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
-  <img src="https://resources.jetbrains.com/storage/products/rustrover/img/meta/rustrover_logo_300x300.png" alt="RustRover" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Versionamento"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
 
