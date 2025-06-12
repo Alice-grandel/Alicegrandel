@@ -3,7 +3,7 @@
 <p align="center">
   <p align="center"> 💻 Linguagem principal: <strong>🧬 c++</strong> <br> 👨‍💻 linguagem secundaria: <strong>🦀  Rust<strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
+🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de baixo nível</strong> <br> 
 
 ---
 
