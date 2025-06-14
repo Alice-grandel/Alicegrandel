@@ -1,15 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 Linguagem principal: <strong>🧬 c++</strong> <br>
+  <p align="center"> 💻 Linguagem principal: <strong>🦀 Rust</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de baixo nível</strong> <br> 
+🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em C++
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em Rust
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
@@ -22,7 +22,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="55" alt="Rust" title="Rust"/>
   <!-- Linguagens -->
   <!-- Ferramentas Rust -->
