@@ -1,15 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 Foco principal: <strong>🦀 Rust</strong> <br> 💻 Base em: <strong>logica de programação com 🧬 c++</strong> <br>
+  <p align="center"> 💻 Apaixonada por: <strong>🦀 Rust</strong> <br> 💻 Foco principal: <strong>🧬 c++</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust</strong> <br> 
+🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust e c++</strong> <br> 
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em Rust
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em c++ e Rust
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
@@ -22,12 +22,15 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="55" alt="C++ Logo"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="55" alt="Rust" title="Rust"/>
   
   <!-- Linguagens -->
   <!-- Ferramentas Rust -->
   <img src="https://rust-lang.org/logos/cargo.png" width="50" alt="Cargo" title="Cargo (Gerenciador de pacotes)"/>
-  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="50" alt="Arduino Logo"/>
+
   <!-- Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Versionamento"/>
