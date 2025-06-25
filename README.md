@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 Apaixonada por: <strong>🦀 Rust</strong> <br> 💻 logica de programação: <strong>🧬 c++</strong> <br>
+  <p align="center"> 💻 Apaixonada por: <strong>🦀 Rust</strong> <br> 💻 foco principal: <strong>🧬 c++</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
 🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust e c++</strong> <br> 
 
