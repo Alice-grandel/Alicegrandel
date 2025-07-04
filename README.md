@@ -1,15 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 foco principal e Apaixonada por: <strong>🦀 Rust</strong> <br> 💻 logica de programção: <strong>🧬 c/c++</strong> <br>
+  <p align="center"> 💻 foco principal: <strong>🧬 c/c++</strong>  <br> Apaixonada por: <strong>🦀 Rust</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust🦀 <strong> <br> 
+🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de 🧬Cpp <strong> <br> 
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em Rust
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em c++
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
@@ -22,6 +22,7 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/512px-ISO_C%2B%2B_Logo.svg.png" width="55" alt="C++ logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="55" alt="Rust" title="Rust"/>
   
   <!-- Linguagens -->
