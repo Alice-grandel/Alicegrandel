@@ -28,7 +28,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
   <!-- Linguagens -->
   <!-- Ferramentas Rust -->
   <img src="https://rust-lang.org/logos/cargo.png" width="50" alt="Cargo" title="Cargo (Gerenciador de pacotes)"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="50" alt="Arduino Logo"/>
 
   <!-- Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
