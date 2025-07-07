@@ -35,16 +35,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=alice-grandel&theme=radical&no-frame=true&margin-w=10&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 ### 📬 Contato
 
