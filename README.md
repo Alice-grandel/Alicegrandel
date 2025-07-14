@@ -44,7 +44,3 @@ Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alice-grandel/count.svg" alt="Visitantes no perfil" />
-</div>
-
