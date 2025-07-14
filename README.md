@@ -47,3 +47,5 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 
 ---
+
+
