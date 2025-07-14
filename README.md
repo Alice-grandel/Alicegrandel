@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
 
 <p align="center">
-  <p align="center"> 💻 foco principal: <strong>🦀 Rust</strong>  <br> 👨‍💻 Logica de programação: <strong>🧬 c/c++</strong> <br>
+  <p align="center"> 💻 foco principal: <strong>🦀 Rust</strong>   <br> 👨‍💻 Logica de programação: <strong>🧬 c/c++</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
 🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust<strong> <br> 
 
@@ -19,6 +19,7 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 ---
 
 ### 🧰 Tecnologias e Ferramentas
+
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
@@ -45,3 +46,9 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding Girl GIF" />
+</p>
+
+
