@@ -22,8 +22,10 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="55" alt="Rust" title="Rust"/>
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" width="75" alt="Rustacean" title="Rust" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="45" alt="C" title="C" />
+
   <!-- Linguagens -->
   <!-- Ferramentas Rust -->
   <img src="https://rust-lang.org/logos/cargo.png" width="50" alt="Cargo" title="Cargo (Gerenciador de pacotes)"/>
