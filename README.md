@@ -1,4 +1,5 @@
-## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤
+## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
+
 
 <p align="center">
   <p align="center"> 💻 foco principal: <strong>🦀 Rust</strong>   <br> 👨‍💻 Logica de programação: <strong>🧬 c/c++</strong> <br>
@@ -46,9 +47,3 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 Se quiser trocar ideia ou colaborar em algo, é só chamar! 💜
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding Girl GIF" />
-</p>
-
-
