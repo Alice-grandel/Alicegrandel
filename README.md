@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <p align="center"> 💻 foco principal: <strong>🦀 Rust</strong>   <br> 👨‍💻 Logica de programação: <strong>🧬 c/c++</strong> <br>
+  <p align="center"> 💻 foco principal: <strong>🦀 R U S T </strong>   <br> 👨‍💻 Logica de programação: <strong>🧬 C</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
 🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust<strong> <br> 
 
