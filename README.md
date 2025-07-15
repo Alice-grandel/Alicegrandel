@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <p align="center"> 💻 foco principal: <strong>🦀 R U S T </strong>   <br> 👨‍💻 Aprendi logica com: <strong>☕JAVA E C++</strong> <br>
+  <p align="center"> 💻 foco principal: <strong>🦀 R U S T </strong>   <br> 👨‍💻 Aprendi logica de programação com: <strong>☕JAVA E C++</strong> <br>
     🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
 🧠 Estudando: <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust<strong> <br> 
 
@@ -25,8 +25,7 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <!-- Linguagens -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" width="75" alt="Rustacean" title="Rust" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="45" alt="C" title="C" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="60"/>
 
   <!-- Linguagens -->
   <!-- Ferramentas Rust -->
