@@ -23,7 +23,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 <p align="left">
   <!-- Linguagens -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" width="75" alt="Rustacean" title="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C" title="Linguagem C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="60"/>
   
   <!-- Ferramentas -->
