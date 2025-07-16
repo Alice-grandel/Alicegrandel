@@ -1,10 +1,11 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
 
-<p align="center">
-  <p align="center"> 💻 Meu foco principal: <strong>🦀 R U S T</strong>   <br> 👨‍💻 Aprendi logica de programação com: <strong>☕JAVA E C++</strong> <br>
-    🛡️ Interesses: <strong>Back-end</strong> | <strong>Baixo Nível e Sistemas Performáticos</strong> <br> 
-🧠 Estudando: <strong>POO</strong>, <strong>Manipulação de memória</strong>, <strong>Estruturas de dados</strong> e <strong>Fundamentos de Rust<strong> <br> 
+💻 Foco principal: 🦀 R U S T  
+⚙️ Segunda linguagem: 🐹 G O L A N G  
+📚 Aprendi lógica de programação: C++  
+🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de Rust
 
 ---
 
