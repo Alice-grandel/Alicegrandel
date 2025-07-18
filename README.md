@@ -24,7 +24,6 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 <p align="left">
   <!-- Linguagens -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" width="75" alt="Rustacean" title="Rust"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="85" />
 
   <!-- Ferramentas -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/512px-Arduino_Logo.svg.png" width="70" alt="Arduino" title="Arduino"/>
