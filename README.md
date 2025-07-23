@@ -2,7 +2,6 @@
 
 
 💻 Foco principal: 🦀 R U S T  
-⚙️ Segunda linguagem: 🐹 G O L A N G  
 📚 Aprendi lógica de programação: C++  
 🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
 🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de Rust
