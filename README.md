@@ -2,7 +2,7 @@
 👩🏻‍💻Experiência prévia com Rust, foco atual em C++ aplicado a projetos embarcados
 <br>
 🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
-🧠 Estudando: POO + Manipulação de memória • Estruturas de dados • Fundamentos de c++ e arduino
+🧠 Estudando: POO + Manipulação de memória • Estruturas de dados • Fundamentos de c++, rust e arduino
 
 ---
 
