@@ -1,5 +1,5 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
-
+👩🏻‍💻Experiência prévia com Rust, foco atual em C++ aplicado a projetos embarcados
 🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
 🧠 Estudando: POO + Manipulação de memória • Estruturas de dados • Fundamentos de c++ e arduino
 
@@ -7,7 +7,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em C++
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em C++ e rust
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
