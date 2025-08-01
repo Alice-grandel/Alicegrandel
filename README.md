@@ -2,7 +2,7 @@
 
 
 💻 linguagem: C++  
-📚 lógica de programação: C++  
+📚 Apremdo lógica de programação: Rust  
 🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
 🧠 Estudando: POO, Manipulação de memória • Estruturas de dados • Fundamentos de c++
 
@@ -10,7 +10,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em rust
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em c++
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
