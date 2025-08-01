@@ -19,7 +19,7 @@ Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu 
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="55" height="2051" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/fce28b01-dcc8-4f22-acb8-8cdffb4b9799" />
+<img width="45" height="2051" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/fce28b01-dcc8-4f22-acb8-8cdffb4b9799" />
 <img width="75" height="307" alt="rustacean-orig-noshadow" src="https://github.com/user-attachments/assets/983e4913-db56-482a-8daa-5559680ecda8" />
 
   <!-- Ferramentas -->
