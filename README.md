@@ -1,7 +1,7 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
 🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
-🧠 Estudando: POO + Manipulação de memória • Estruturas de dados • Fundamentos de Rust + c++ e arduino
+🧠 Estudando: POO + Manipulação de memória • Estruturas de dados • Fundamentos de c++ e arduino
 
 ---
 
