@@ -1,8 +1,9 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
-👩🏻‍💻foco atual: linguagem Rust aplicado a projetos embarcados
+👩🏻‍💻foco atual: linguagem Rust aplicando em projetos embarcados 
 <br>
-🛡️ Interesses: Back-end • Baixo nível • Sistemas performáticos  
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de rust e arduino
+🛡️ Interesses: Bare-metal • Baixo nível • cybersegurança + Sistemas performáticos  
+
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de rust e bare metal
 
 ---
 
