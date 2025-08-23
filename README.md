@@ -8,10 +8,10 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento back-end, construindo uma base sólida em programação com foco em rust
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação bare metal com foco em rust
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
-Acredito que a profundidade vale mais do que a pressa — por isso, sigo no meu ritmo, mas sempre com determinação.
+Acredito que a profundidade vale — por isso, sigo o meu caminho, mas sempre com determinação.
 
 🏳️‍⚧️ Como mulher trans, também quero abrir caminhos e mostrar que há espaço para todas nós na tecnologia.
 
