@@ -2,7 +2,6 @@
 👩🏻‍💻foco atual: linguagem Rust aplicando em projetos embarcados 
 <br>
 🛡️ Interesses: Bare-metal • Baixo nível • cybersegurança + Sistemas performáticos  
-
 🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de rust e bare metal
 
 ---
