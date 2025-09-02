@@ -1,7 +1,6 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻foco atual: linguagem ADA aplicando em projetos embarcados com experiencia previa em  R U S T </br>
-
+👩🏻‍💻foco atual: linguagem ADA aplicando em projetos embarcados </br>
 
 🛡️ Interesses: Embarcados * sistemas-criticos * Bare-metal  * cybersegurança * Sistemas performáticos * Baixo-nivel  
 <br>
@@ -23,12 +22,13 @@ Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre c
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="75" height="307" alt="rustacean-orig-noshadow" src="https://github.com/user-attachments/assets/983e4913-db56-482a-8daa-5559680ecda8" />
+<img width="75" height="307" alt="image" src="https://github.com/user-attachments/assets/a9275006-bef7-4d56-bfa1-877e5bc54f20" />
 
   <!-- Ferramentas -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/512px-Arduino_Logo.svg.png" width="70" alt="Arduino" title="Arduino"/>
+  <img width="75" height="307" alt="image" src="https://github.com/user-attachments/assets/8ea8e128-f6f1-4460-ae90-e76cc060da57" />
+  <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
-  <img width="50" height="275" alt="cargo" src="https://github.com/user-attachments/assets/33562e7e-ebb7-459b-a5ff-1a9a47db0c3d" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
