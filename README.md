@@ -32,6 +32,8 @@ Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre c
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
+  <img width="74" height="300" alt="pngaaa com-914567" src="https://github.com/user-attachments/assets/e2b2cd18-af71-448c-aeef-ec48983bd996" />
+
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="75" alt="Docker Icon" title="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="55" alt="Bash logo" title="Bash">
 
