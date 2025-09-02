@@ -10,7 +10,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação bare metal com foco em linguagem *ADA*
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em linguagem *ADA*
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre com determinação.
