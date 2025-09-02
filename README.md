@@ -1,14 +1,17 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
-👩🏻‍💻foco atual: linguagem Rust aplicando em projetos embarcados 
+
+👩🏻‍💻foco atual: linguagem ADA aplicando em projetos embarcados com experiencia previa em  R U S T </br>
+
+
+🛡️ Interesses: Embarcados * sistemas-criticos * Bare-metal  * cybersegurança * Sistemas performáticos * Baixo-nivel  
 <br>
-🛡️ Interesses: Bare-metal • Baixo nível • cybersegurança + Sistemas performáticos  
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de rust e bare metal
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de ada e embarcados
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação bare metal com foco em rust
+Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação bare metal com foco em linguagem ada
 
 Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
 Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre com determinação.
