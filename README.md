@@ -36,7 +36,6 @@ Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
   <img width="74" height="300" alt="pngaaa com-914567" src="https://github.com/user-attachments/assets/e2b2cd18-af71-448c-aeef-ec48983bd996" />
   <img width="75" height="300" alt="pngwing com" src="https://github.com/user-attachments/assets/3d05ceb5-c2cd-4702-aeff-13d38dec137c" />
-  <img width="75" height="312" alt="image" src="https://github.com/user-attachments/assets/9c8aef5b-face-4ff0-8519-b646952fc926" />
 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="75" alt="Docker Icon" title="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="55" alt="Bash logo" title="Bash">
