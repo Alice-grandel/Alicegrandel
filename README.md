@@ -23,6 +23,7 @@ Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre c
 <p align="left">
   <!-- Linguagens -->
 <img width="74" height="357" alt="c-logo-icon-28389" src="https://github.com/user-attachments/assets/b64dcccc-10ac-4ed6-ba28-aa7df89c48b8" />
+<img width="74" height="300" alt="image" src="https://github.com/user-attachments/assets/a1ad964d-c3ca-4c0a-9d7b-c6e65e2d30e4" />
 
   <!-- Ferramentas -->
 <img width="75" height="256" alt="arduino_22429" src="https://github.com/user-attachments/assets/6f6bafb1-0c81-4542-b3aa-dacd4537e528" />
