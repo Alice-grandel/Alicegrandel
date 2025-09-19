@@ -10,12 +10,11 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel, sou uma estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em linguagem *c++*
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado/cybersegurança, construindo uma base sólida em programação com foco em C++.
 
-Tenho um interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura.  
-Acredito que a profundidade vale mais — por isso, sigo o meu caminho, sempre com determinação.
+Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Adoro criar sistemas eletrônicos por meio da programação embarcada, integrando conceitos de cibersegurança para torná-los robustos e confiáveis. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
-🏳️‍⚧️ Como mulher trans, também quero abrir caminhos e mostrar que há espaço para todas nós na tecnologia.
+🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
 ---
 
