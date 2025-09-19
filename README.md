@@ -2,7 +2,7 @@
 
 👩🏻‍💻foco atual: linguagem *c++* aplicando em projetos embarcados e cybersegurança </br>
 
-🛡️ Interesses: Embarcados * sistemas-criticos * cybersegurança * Baixo-nivel  
+🛡️ Interesses: Embarcados * cybersegurança * Baixo-nivel  * c/c++
 <br>
 🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de c++ aplicando em embarcados e cybersegurança
 
