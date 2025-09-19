@@ -1,6 +1,6 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻foco atual: linguagem *c++* aplicando em projetos embarcados e cybersegurança </br>
+👩🏻‍💻foco atual: *c++* aplicando em projetos embarcados e cybersegurança </br>
 
 🛡️ Interesses: Embarcados * cybersegurança * Baixo-nivel  * c/c++
 <br>
@@ -36,7 +36,6 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
   <img width="74" height="300" alt="pngaaa com-914567" src="https://github.com/user-attachments/assets/e2b2cd18-af71-448c-aeef-ec48983bd996" />
-  <img width="75" height="300" alt="pngwing com" src="https://github.com/user-attachments/assets/3d05ceb5-c2cd-4702-aeff-13d38dec137c" />
 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="75" alt="Docker Icon" title="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="55" alt="Bash logo" title="Bash">
