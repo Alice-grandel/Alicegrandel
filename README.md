@@ -1,16 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻foco atual: *c++* aplicando em projetos embarcados e cybersegurança </br>
-
-🛡️ Interesses: Embarcados * cybersegurança * Baixo-nivel  * c/c++
+👩🏻‍💻Linguagem_principal:  *R U S T* </br>
+🛡️ Interesses: Baixo_nivel •  Embarcados • cybersegurança •  *RUST*
 <br>
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de c++ aplicando em embarcados e cybersegurança
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de Rust • Embarcados
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado/cybersegurança, construindo uma base sólida em programação com foco em C++.
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em Rust
 
 Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Adoro criar sistemas eletrônicos por meio da programação embarcada, integrando conceitos de cibersegurança para torná-los robustos e confiáveis. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
@@ -21,15 +20,13 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="74" height="457" alt="c-logo-icon-28389" src="https://github.com/user-attachments/assets/b64dcccc-10ac-4ed6-ba28-aa7df89c48b8" />
 
   <!-- Ferramentas -->
-<img width="75" height="256" alt="arduino_22429" src="https://github.com/user-attachments/assets/6f6bafb1-0c81-4542-b3aa-dacd4537e528" />
+<img width="75" height="300" alt="image" src="https://github.com/user-attachments/assets/7b5f40ba-301d-4207-83bf-b378ed90bf50" />
 
   <img width="75" height="307" alt="image" src="https://github.com/user-attachments/assets/8ea8e128-f6f1-4460-ae90-e76cc060da57" />
   <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
 
-   <img width="74" height="250" alt="image" src="https://github.com/user-attachments/assets/a1ad964d-c3ca-4c0a-9d7b-c6e65e2d30e4" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
 
