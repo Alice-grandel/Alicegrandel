@@ -1,6 +1,6 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem_principal:  *C* </br>
+👩🏻‍💻Linguagem_principal:  *C* aplicando em embarcados</br>
 
 🛡️ Interesses: Baixo_nivel •  Assembly x86 • Embarcados  • Engenharia-reversa • Linguagem *C*
 <br>
@@ -23,9 +23,10 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <!-- Linguagens -->
 
   <!-- Ferramentas -->
-<img width="75" height="300" alt="image" src="https://github.com/user-attachments/assets/7b5f40ba-301d-4207-83bf-b378ed90bf50" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ef9b5ebe-fcf1-47ff-a714-3fcfff923f7e" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/837928f6-6f17-4e5e-8577-6b13f6037499" />
 
-  <img width="75" height="307" alt="image" src="https://github.com/user-attachments/assets/8ea8e128-f6f1-4460-ae90-e76cc060da57" />
+  
   <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
   <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
 
