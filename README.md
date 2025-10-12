@@ -1,9 +1,10 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem_principal:  *R U S T* </br>
-🛡️ Interesses: Baixo_nivel •  Embarcados • cybersegurança •  *RUST*
+👩🏻‍💻Linguagem_principal:  *C* </br>
+
+🛡️ Interesses: Baixo_nivel •  Assembly x86 • Embarcados  • Engenharia-reversa • Linguagem *C*
 <br>
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de Rust • Embarcados
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de C • bare-metal • Embarcados
 
 ---
 
