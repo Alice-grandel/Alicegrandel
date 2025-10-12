@@ -2,7 +2,7 @@
 
 👩🏻‍💻Linguagem_principal:  *C* aplicando em embarcados</br>
 
-🛡️ Interesses: Baixo_nivel •  Assembly x86 • Embarcados  • Engenharia-reversa • Linguagem *C*
+🛡️ Interesses: Baixo_nivel •  Assembly x86_64 • Embarcados  • Engenharia-reversa • Linguagem *C*
 <br>
 🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de C • bare-metal • Embarcados
 
