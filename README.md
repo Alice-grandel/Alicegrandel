@@ -1,16 +1,16 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem_principal:  `RUST` aplicando em embarcados </br>
+👩🏻‍💻Linguagem_principal:  `C++` aplicando em embarcados </br>
 
-🛡️ Interesses: Baixo_nivel •  Assembly  • *R U S T* • Embarcados  • Engenharia-reversa
+🛡️ Interesses: Baixo_nivel •  Assembly  • *C++* • Embarcados  • Engenharia-reversa
 <br>
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de *RUST* • Embarcados
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de *C++* • Embarcados
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *RUST*
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C++*
 
 Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Adoro criar sistemas eletrônicos por meio da programação embarcada, integrando conceitos de cibersegurança para torná-los robustos e confiáveis. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
@@ -23,9 +23,8 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <!-- Linguagens -->
 
   <!-- Ferramentas -->
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3367b2ed-3502-41c9-b60e-4034da4c8234" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/70a7ec32-1256-4c0c-9c1c-c5e0fcacaeff" />
 
-  
   <img width="100" height="124" alt="image" src="https://github.com/user-attachments/assets/6b3b218d-bea4-44f8-b6c5-f47e19ed0257" />
 
 
