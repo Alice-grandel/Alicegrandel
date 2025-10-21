@@ -1,16 +1,16 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem_principal:  `C++` </br>
+👩🏻‍💻Linguagens:  `C` e `R U S T` </br>
 
-🛡️ Interesses: Baixo_nivel •  Assembly  • *C++* • Embarcados  • cybersegurança
+🛡️ Interesses: Baixo_nivel •  Assembly  • *C* • *RUST* •  Embarcados  • cybersegurança
 <br>
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de *C++* • Embarcados • engenharia-reversa • white hat
+🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de *C* e RUST • Embarcados • engenharia-reversa • white hat
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C++*
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C*
 
 Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Adoro criar sistemas eletrônicos por meio da programação embarcada, integrando conceitos de cibersegurança para torná-los robustos e confiáveis. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
@@ -23,10 +23,10 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <!-- Linguagens -->
 
   <!-- Ferramentas -->
-  
-<img width="100" height="100" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/eb0449d2-98ef-41ae-857e-892f399c5cfc" />
+<img width="102" height="120" alt="c_original_logo_icon_146611" src="https://github.com/user-attachments/assets/1e93ca8c-5fb9-455c-9470-091eff3e0ddf" />
 
-  <img width="100" height="124" alt="image" src="https://github.com/user-attachments/assets/6b3b218d-bea4-44f8-b6c5-f47e19ed0257" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/be7813d5-475e-4351-a549-01b8b9ad18c9" />
+
 
 
   <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
