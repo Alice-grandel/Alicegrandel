@@ -2,9 +2,9 @@
 
 👩🏻‍💻Linguagem principal:  `C++` </br>
 
-🛡️ Interesses: Baixo_nivel •  Assembly  • *C++* • *RUST* •  Embarcados  • cybersegurança
+🛡️ Interesses: Baixo_nivel  •  Assembly  •  *C++*  •  Embarcados  •  cybersegurança
 <br>
-🧠 Estudando: Manipulação de memória • Estruturas de dados • Fundamentos de *C++* e RUST • Embarcados • engenharia-reversa • white hat
+🧠 Estudando: Fundamentos de *C++* e RUST  •  Manipulação de memória  •  Estruturas de dados  •  Embarcados  •  engenharia-reversa  •  sistemas-operacionais  •  white-hat
 
 ---
 
