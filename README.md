@@ -1,18 +1,18 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C++` </br>
+👩🏻‍💻Linguagem principal:  `C` </br>
 
-🛡️ Interesses: Baixo_nivel  •  Assembly  •  *C++*  •  Embarcados  •  cybersegurança
+🛡️ Interesses: Baixo_nivel  •  Assembly  •  *C*  •  Embarcados  •  cybersegurança
 <br>
-🧠 Estudando: Fundamentos de *C++* e RUST  •  Manipulação de memória  •  Estruturas de dados  •  Embarcados  •  engenharia-reversa  •  sistemas-operacionais  •  white-hat
+🧠 Estudando: Fundamentos de *C* •  Manipulação de memória  •  Estruturas de dados  •  Embarcados  •  engenharia-reversa  •  sistemas-operacionais
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C++*
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C*
 
-Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Adoro criar sistemas eletrônicos por meio da programação embarcada, integrando conceitos de cibersegurança para torná-los robustos e confiáveis. Acredito que profundidade vale mais, por isso sigo meu caminho.
+Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
@@ -23,11 +23,7 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <!-- Linguagens -->
 
   <!-- Ferramentas -->
-<img width="130" height="130" alt="c-logo-blue-hexagon-programming-language-symbol" src="https://github.com/user-attachments/assets/db3beed0-ba7d-440a-b55c-fd56fee76a49" />
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/be7813d5-475e-4351-a549-01b8b9ad18c9" />
-
-
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fedf4187-2395-4980-8a1d-fb9ad80c571f" />
 
   <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
   <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
