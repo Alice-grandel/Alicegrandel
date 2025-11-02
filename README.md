@@ -25,7 +25,7 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
   <!-- Ferramentas -->
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fedf4187-2395-4980-8a1d-fb9ad80c571f" />
 
-  <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
+  <img width="75" height="90" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
   <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
