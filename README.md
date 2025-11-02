@@ -4,7 +4,7 @@
 
 🛡️ Interesses: Baixo_nivel  •  Assembly  •  *C*  •  Embarcados  •  cybersegurança
 <br>
-🧠 Estudando: Fundamentos de *C* •  Manipulação de memória  •  Estruturas de dados  •  Embarcados  •  engenharia-reversa  •  sistemas-operacionais
+🧠 Estudando: Fundamentos de *C* •  Manipulação de memória  •  Estruturas de dados  • arquetetura de computadores •  Embarcados  •  engenharia-reversa
 
 ---
 
