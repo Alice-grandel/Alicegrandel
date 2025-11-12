@@ -24,8 +24,7 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
 
   <!-- Ferramentas -->
   <img width="90" height="90" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/44b7fd57-feb1-4b8a-a415-e3f8a5473ce9" />
-  <img width="70" height="70" alt="c_original_logo_icon_146611" src="https://github.com/user-attachments/assets/284b925b-6c75-459e-86dd-842662463f84" />
-
+  
   <img width="75" height="90" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
   <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
 
