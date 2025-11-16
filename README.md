@@ -1,10 +1,10 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C` </br>
+👩🏻‍💻Linguagem principal:  `C` e amante de `R U S T`</br>
 
-🛡️ Interesses: Baixo_nivel  •  Assembly   • `C`  Embarcados  •  cybersegurança
+🛡️ Interesses: Baixo_nivel  •  Assembly   • `C` • `R U S T` • Embarcados  •  cybersegurança
 <br>
-🧠 Estudando: Fundamentos de *C* •  Manipulação de memória  •  Estruturas de dados  • arquetetura de computadores •  Embarcados  •  engenharia-reversa
+🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • arquetetura de computadores •  Embarcados  •  engenharia-reversa
 
 ---
 
@@ -24,6 +24,7 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
 
   <!-- Ferramentas -->
   <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9867c242-cb3c-4516-b71d-4a34b77712c8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" width="90" alt="Rustacean" title="Rust" />
 
   <img width="75" height="90" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
   <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
