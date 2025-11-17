@@ -2,7 +2,7 @@
 
 👩🏻‍💻Linguagem principal:  `C` e amante de `R U S T`</br>
 
-🛡️ Interesses: Baixo_nivel  •  Assembly   • `C` • `R U S T` • Embarcados  •  cybersegurança
+🛡️ Interesses: Baixo_nivel   • `C` • `R U S T` • Embarcados  •  cybersegurança
 <br>
 🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • arquetetura de computadores •  Embarcados  •  engenharia-reversa
 
