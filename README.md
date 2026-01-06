@@ -1,8 +1,8 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C++`</br>
+👩🏻‍💻Linguagem principal:  `C`</br>
 
-🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • Embarcados •  cybersegurança
+🛡️ Interesses: Baixo_nivel • `assembly` • `C` • Embarcados •  cybersegurança
 <br>
 🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Arquitetura de computadores •  Embarcados
 
@@ -10,7 +10,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C++*
+Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C*
 
 Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade vale mais, por isso sigo meu caminho.
 
@@ -21,7 +21,9 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="100" height="100" alt="pngegg" src="https://github.com/user-attachments/assets/119e592b-2a05-4a8e-8eb1-65de0a54a531" />
+<img width="100" height="100" alt="pngegg(1)" src="https://github.com/user-attachments/assets/63bd36a8-0a6e-439c-a848-246182364a75" />
+<img width="82" height="82" alt="image" src="https://github.com/user-attachments/assets/c8140433-e456-41f2-9fbc-ef544f496c87" />
+
 
   <!-- Ferramentas -->
 
