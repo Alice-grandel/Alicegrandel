@@ -2,7 +2,7 @@
 
 👩🏻‍💻Linguagem principal:  `C++`</br>
 
-🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • Embarcados •  cybersegurança
+🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • Embarcados
 <br>
 🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Arquitetura de computadores •  Embarcados
 
