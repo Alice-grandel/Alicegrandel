@@ -1,18 +1,18 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C++`</br>
+👩🏻‍💻Linguagem principal:  `C`</br>
 
-🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • Embarcados
+🛡️ Interesses: Baixo_nivel • `assembly` • `C` • `Redes` • `Servidores`
 <br>
-🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Arquitetura de computadores •  Embarcados
+🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Redes • Arquitetura de computadores •  
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel e sou estudante de desenvolvimento embarcado, construindo uma base sólida em programação com foco em *C++*
+Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C* e *ASM*
 
-Tenho interesse especial por sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade vale mais, por isso sigo meu caminho.
+Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais, por isso sigo meu caminho.
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
@@ -21,15 +21,15 @@ Tenho interesse especial por sistemas performáticos, manipulação de memória 
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="100" height="100" alt="pngegg" src="https://github.com/user-attachments/assets/40008281-89bc-4f30-b99d-95c128398b94" />
+<img width="100" height="100" alt="pngegg(1)" src="https://github.com/user-attachments/assets/19d4e4e4-ec38-4f09-8ffc-11d79b0524ec" />
 
 
   <!-- Ferramentas -->
 
   <img width="75" height="90" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
-  <img width="75" height="300" alt="pngwing com(1)" src="https://github.com/user-attachments/assets/07dfa179-6d0c-40ff-bb17-bdf91eeaad95" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" title="VSCode"/>
+<img width="100" height="100" alt="a3c785980619dd38b182ba39c7c5861d" src="https://github.com/user-attachments/assets/4d5f2426-0de0-4f31-8b61-d43e23ff4aa2" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
