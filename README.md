@@ -1,8 +1,8 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C`</br>
+👩🏻‍💻Linguagem principal:  `C++`</br>
 
-🛡️ Interesses: Baixo_nivel • `assembly` • `C` • `Redes` • `Servidores`
+🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • `Redes` • `Servidores`
 <br>
 🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Redes • Arquitetura de computadores •  
 
@@ -21,8 +21,8 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 ### 🧰 Tecnologias e Ferramentas
 <p align="left">
   <!-- Linguagens -->
-<img width="100" height="100" alt="pngegg(1)" src="https://github.com/user-attachments/assets/19d4e4e4-ec38-4f09-8ffc-11d79b0524ec" />
-<img width="100" height="100" alt="pngegg(2)" src="https://github.com/user-attachments/assets/5f7489b1-9ae9-4795-85b7-1fb6b37d3320" />
+ <img width="100" height="100" alt="pngegg" src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" />
+  <img width="100" height="100" alt="pngegg(2)" src="https://github.com/user-attachments/assets/5f7489b1-9ae9-4795-85b7-1fb6b37d3320" />
 
 
   <!-- Ferramentas -->
