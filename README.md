@@ -10,7 +10,7 @@
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C* e *ASM*
+Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C++* e *java*
 
 Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais, por isso sigo meu caminho.
 
@@ -22,6 +22,7 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 <p align="left">
   <!-- Linguagens -->
 <img width="100" height="100" alt="pngegg(1)" src="https://github.com/user-attachments/assets/19d4e4e4-ec38-4f09-8ffc-11d79b0524ec" />
+<img width="100" height="100" alt="pngegg(2)" src="https://github.com/user-attachments/assets/5f7489b1-9ae9-4795-85b7-1fb6b37d3320" />
 
 
   <!-- Ferramentas -->
