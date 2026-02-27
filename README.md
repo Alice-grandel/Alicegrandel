@@ -22,8 +22,6 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 <p align="left">
   <!-- Linguagens -->
  <img width="100" height="100" alt="pngegg" src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" />
-  <img width="100" height="100" alt="pngegg(2)" src="https://github.com/user-attachments/assets/5f7489b1-9ae9-4795-85b7-1fb6b37d3320" />
-
 
   <!-- Ferramentas -->
 
