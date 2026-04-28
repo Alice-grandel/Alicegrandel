@@ -2,15 +2,15 @@
 
 👩🏻‍💻Linguagem principal:  `C++`</br>
 
-🛡️ Interesses: Baixo_nivel • `assembly` • `C++` • `Redes` • `Servidores`
+🛡️ Interesses: Baixo_nivel • `Embarcados` • `C++` • `RTOS` • `Rede`
 <br>
-🧠 Estudando:  Manipulação de memória  •  Estruturas de dados  • Redes • Arquitetura de computadores •  
+🧠 Estudando:  Manipulação de memória  •  Estruturas de dados • Arquitetura de computadores
 
 ---
 
 ### 🌱 Sobre mim
 
-Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C++* e *java*
+Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C++*
 
 Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais, por isso sigo meu caminho.
 
@@ -19,26 +19,29 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 ---
 
 ### 🧰 Tecnologias e Ferramentas
+
 <p align="left">
+
   <!-- Linguagens -->
- <img width="100" height="100" alt="pngegg" src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" />
+  <img src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" width="80" alt="Linguagem 1" />
 
+   <!-- Embedded / RTOS -->
+  <img src="https://www.chibios.org/dokuwiki/lib/exe/fetch.php?media=chibios:logo.png" width="80" alt="ChibiOS" title="ChibiOS"/>
+  
   <!-- Ferramentas -->
+  <img src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" width="70" alt="Ferramenta 1" />
+  <img src="https://github.com/user-attachments/assets/4d5f2426-0de0-4f31-8b61-d43e23ff4aa2" width="80" alt="Ferramenta 2" />
 
-  <img width="75" height="90" alt="image" src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" />
-
-<img width="100" height="100" alt="a3c785980619dd38b182ba39c7c5861d" src="https://github.com/user-attachments/assets/4d5f2426-0de0-4f31-8b61-d43e23ff4aa2" />
-
-
+  <!-- Dev Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
-  <img width="74" height="300" alt="pngaaa com-914567" src="https://github.com/user-attachments/assets/e2b2cd18-af71-448c-aeef-ec48983bd996" />
 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="75" alt="Docker Icon" title="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="55" alt="Bash logo" title="Bash">
+  <!-- Outros -->
+  <img src="https://github.com/user-attachments/assets/e2b2cd18-af71-448c-aeef-ec48983bd996" width="60" alt="Extra" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60" alt="Docker" title="Docker"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" alt="Bash" title="Bash"/>
 
 </p>
-
 ---
 
 
