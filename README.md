@@ -24,7 +24,6 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 
   <!-- Linguagens -->
   <img src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" width="80" alt="Linguagem 1" />
-  <img src="https://www.chibios.org/dokuwiki/lib/exe/fetch.php?media=chibios:logo.png" width="80" alt="ChibiOS" title="ChibiOS"/>
    <!-- Embedded / RTOS -->  
   <!-- Ferramentas -->
   <img src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" width="70" alt="Ferramenta 1" />
