@@ -12,7 +12,7 @@
 
 Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C++*
 
-Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais, por isso sigo meu caminho.
+Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais.
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
