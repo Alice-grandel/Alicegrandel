@@ -1,18 +1,17 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻Linguagem principal:  `C++`</br>
+👩🏻‍💻 Linguagens: Kotlin and C++</br>
 
-🛡️ Interesses: Baixo_nivel • `Embarcados` • `C++` • `RTOS` • `Rede`
+🛡️ Interesses: Kotlin • Android • Jetpack Compose • C++ • Linux
 <br>
-🧠 Estudando:  Manipulação de memória  •  Estruturas de dados • Arquitetura de computadores
+🧠 Estudando: Estruturas de dados • Arquitetura de computadores • Manipulação de memória
 
 ---
 
 ### 🌱 Sobre mim
+Me chamo Alice Grandel. Desenvolvo aplicações em Kotlin com android studio e C++,
 
-Meu nome é Alice Grandel estou construindo uma base sólida com foco em *C++*
-
-Tenho interesse especial pela programação de baixo nivel, gosto sistemas performáticos, manipulação de memória e infraestrutura segura. Acredito que profundidade e conhecimento tecnico vale mais.
+Tenho interesse em desenvolvimento android, programação de sistemas, manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
@@ -24,8 +23,10 @@ Tenho interesse especial pela programação de baixo nivel, gosto sistemas perfo
 
   <!-- Linguagens -->
   <img src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" width="80" alt="Linguagem 1" />
-   <!-- Embedded / RTOS -->  
   <!-- Ferramentas -->
+  <img width="72" height="72" alt="cr117kotf876-kotlin-logo-cropped-kotlin-logo-png-kotlin-expertise-blog" src="https://github.com/user-attachments/assets/73f69ec3-4a49-4991-8d9b-fde43ddf9279" />
+
+  
   <img src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" width="70" alt="Ferramenta 1" />
   <img src="https://github.com/user-attachments/assets/4d5f2426-0de0-4f31-8b61-d43e23ff4aa2" width="80" alt="Ferramenta 2" />
 
