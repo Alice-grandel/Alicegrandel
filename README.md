@@ -1,17 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻 Linguagens: Kotlin and C++</br>
+👩🏻‍💻 Linguagens: Java and C++</br>
 
-🛡️ Interesses: Kotlin • Android • Jetpack Compose • C++ • Linux
-<br>
 🧠 Estudando: Estruturas de dados • Arquitetura de computadores • Manipulação de memória
 
 ---
 
 ### 🌱 Sobre mim
-Me chamo Alice Grandel. Desenvolvo aplicações em Kotlin com android studio e C++,
+Me chamo Alice Grandel. Desenvolvo aplicações em Java e C++,
 
-Tenho interesse em desenvolvimento android, programação de sistemas, manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
+Tenho interesse em programação de sistemas, manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
@@ -24,7 +22,8 @@ Tenho interesse em desenvolvimento android, programação de sistemas, manipula�
   <!-- Linguagens -->
   <img src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" width="80" alt="Linguagem 1" />
   <!-- Ferramentas -->
-  <img width="72" height="72" alt="cr117kotf876-kotlin-logo-cropped-kotlin-logo-png-kotlin-expertise-blog" src="https://github.com/user-attachments/assets/73f69ec3-4a49-4991-8d9b-fde43ddf9279" />
+
+ <img width="72" height="72" alt="Java" src="https://github.com/user-attachments/assets/6f7f6bca-a017-4bf9-9961-7d406550cc3d" />
 
   
   <img src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" width="70" alt="Ferramenta 1" />
